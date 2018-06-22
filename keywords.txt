@@ -1,0 +1,3 @@
+dacAttachPin	KEYWORD2
+dacFastWrite25	KEYWORD2
+dacFastWrite26	KEYWORD2
