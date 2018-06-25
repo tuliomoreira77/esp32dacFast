@@ -4,8 +4,6 @@
 //Maiores resoluções resultam em menores frenquencias maximas! -Greather resolutions results on smaller max frequencies
 float values[SAM];
 uint8_t tvalues[SAM];
-uint8_t tvaluesCopia[SAM];
-int in,fi;
 float freq = 10;
 float periodo;
 int per = 1;
