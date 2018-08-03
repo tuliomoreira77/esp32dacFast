@@ -7,4 +7,4 @@ This library allows to use esp32 dac in a faster way then the traditional functi
 Functions:
 dacAttachPin(PIN_NUMBER) ---- set a output analog (can be pin 25 or 26);
 dacFastWrite25(VALUE) ---- Write a value to output 25 (0 to 255);
-dacFastWrite25(VALUE) ---- Write a value to outupt 26 (0 to 255);
+dacFastWrite26(VALUE) ---- Write a value to outupt 26 (0 to 255);
