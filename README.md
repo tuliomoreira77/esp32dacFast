@@ -1,5 +1,5 @@
 # esp32dacFast
-Library write by Tulio_Moreira, feel free to modify and share as you want. 
+Library writen by Tulio_Moreira, feel free to modify and share as you want. 
 Follow my youtube channel https://www.youtube.com/channel/UCM48Jk6TDWnim1G76s2JfdQ
 
 This library allows to use esp32 dac in a faster way then the traditional function "dacWrite" (in free run this library can reach ~850khz write frequency, the tradional one can reach only ~200Khz).
